@@ -1,4 +1,0 @@
-2018-11-29T06:34:53+00:00 CRITICAL Call to undefined function bp_get_member_type_tax_name() in /var/www/phphosting/Prakhar/Kosta/wp-content/plugins/buddypress/bp-core/bp-core-taxonomy.php on line 24
-
-2018-11-29T06:34:53+00:00 CRITICAL Call to undefined function bp_is_user_inactive() in /var/www/phphosting/Prakhar/Kosta/wp-content/plugins/buddypress/bp-core/bp-core-caps.php on line 390
-
